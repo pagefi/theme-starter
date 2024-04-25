@@ -1,0 +1,12 @@
+{
+  "layout": "",
+  "sections": {
+    "main": {
+      "id": "main",
+      "type": "main"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

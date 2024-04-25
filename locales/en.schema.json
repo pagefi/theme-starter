@@ -1,0 +1,29 @@
+{
+    "sections":{
+        "announcement-bar":{
+            "name":"Announcement bar"
+        },
+        "header":{
+            "name":"Header"
+        },
+        "feature-card-customer":{
+            "name":"Feature card customer",
+            "blocks":{
+                "card":{
+                    "name":"Card",
+                    "settings":{
+                        "name":{
+                            "label":"Name"
+                        },
+                        "position":{
+                            "label":"Position"
+                        },
+                        "content":{
+                            "label":"Content"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
